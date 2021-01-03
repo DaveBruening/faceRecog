@@ -1,2 +1,3 @@
-# faceRecog
-Facial recognition using Microsoft's Cognitive Services
+#Facial recognition using Microsoft's Cognitive Services
+Hello.  This code is the result of my tinkering with [Quickstart: Use the Face client library - Azure Cognitive Services | Microsoft Docs]
+(https://docs.microsoft.com/en-us/azure/cognitive-services/Face/Quickstarts/client-libraries?pivots=programming-language-csharp&tabs=visual-studio)
